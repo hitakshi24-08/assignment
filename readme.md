@@ -4,5 +4,6 @@ _This repository contains a complete, runnable Jupyter Notebook that fulfills al
 
 
 **PROJECT OVERVIEW**
-_The Zachary’s Karate Club graph is a well-known network dataset that maps the friendships among 34 members of a university karate club in the 1970s. It became famous because the club later split into two groups after a disagreement between the instructor (Node 0, “Mr. Hi”) and the administrator (Node 33, “John A.”).
-This project uses those friendship connections — recorded before the split — to explore one main idea: Can a mathematical algorithm, using only the network structure, detect the hidden tensions that eventually caused the real-life division?_
+The Zachary’s Karate Club graph is a classic social network dataset representing the friendships among 34 members of a university karate club in the 1970s. The club eventually split into two factions after a conflict between the instructor (Node 0, “Mr. Hi”) and the administrator (Node 33, “John A.”).
+
+In this project, I analyzed the network to understand whether mathematical and graph-theoretic algorithms can reveal the hidden tension that eventually caused the real-life split.
